@@ -424,5 +424,12 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+# Arduino / PlatformIO
+.pio/
+build/
+*.hex
+*.elf
+*.bin
+
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
